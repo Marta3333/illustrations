@@ -45,6 +45,10 @@ a:hover {
 
 /* NAVBAR */
 
+.navbar-toggler{
+  margin-right: 10px;
+}
+
 .navbar-section {
   background-color: #316B83;
 }
